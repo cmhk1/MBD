@@ -61,3 +61,24 @@ For this exercise, you can use the resulting data table from the previous part a
     Ask questions from the business perspective and try to find the answers using Python
     Use all power of Plotly to represent your insights
     Don't lose the main goal of the problem: predicting death cases
+
+
+# Submission
+
+A notebook named GroupAssignment_EDA_GroupX.ipynb with all the analysis.
+
+
+# Evaluation
+
+This part of the assignment holds the 40% of the total assignment score, and it will be peer reviewed during the presentations session. Every student must provide a score (from 0 to 10) to every group, using the following schema.
+
+
+    Complexity and depth of the analysis of COVID-19 deaths (4 points)
+    Look & feel of the charts (interactivity, the axes are labeled, colors are consistent, etc.) (4 points)
+    The presentation is well structured and is easy to follow (2 points)
+
+
+The score of this part will be the average of all scores received from all the students.
+
+
+NOTE: This part of the assignment is intended to be a role-playing game in which you act as provider of services (presenter), and the customer (listener). Please, be honest with your evaluations.
